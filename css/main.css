@@ -1,17 +1,40 @@
 html {
-	background-color: #000;
+	background-color: #white;
 }
 
 h1,h2,h3 {
 	font-weight: bold;
 	font-family: 'Sigmar One', cursive;
 	line-height: 1.5;
+	color: #b32f52;
+}
+
+header {
+	background-color: #ffe524;
 }
 
 ol{
 	list-style-type:none;
 	padding:0;
 	text-align: center;
+	display: inline-block;
+}
+
+figure {
+	display: inline-block;
+	padding: 0.5em 0.75em;
+	border: 3px solid #bcb9b2;
+	background-color: #fffce0;
+	border-radius: 5px;
+}
+
+figcaption {
+	text-align: center;
+	font-style: italic;
+}
+
+img {
+	width: 100%;
 }
 
 body{

@@ -56,6 +56,10 @@ figcaption {
 
 blockquote{
 	color: #b1a35e;
+	font-style: italic;
+	padding: 0em;
+	text-align: center;
+	display: inline-block;
 }
 
 img {
@@ -70,6 +74,10 @@ body{
 	font-size: 3rem;
 	text-align: center;
 	color: #b1a35e;
+	padding: 0;
+	margin: 0em 0em -0.2em 0em;
+
+
 }
 
 h1 {

@@ -71,8 +71,19 @@ body{
 }
 
 .quotation {
-	font-size: 1.5rem;
+	font-size: 3rem;
 	text-align: center;
 	color: #b1a35e;
 }
 
+h1 {
+	text-align:center;
+}
+
+dt{
+	font-weight: bold;
+}
+
+.per{
+	font-style: italic;
+}

@@ -1,0 +1,18 @@
+html {
+	background-color: #000;
+}
+
+h1,h2,h3 {
+	font-weight: bold;
+	font-family: 'Sigmar One', cursive;
+	line-height: 1.5;
+}
+
+ol{
+	list-style-type:none;
+	padding:0;
+	text-align: center;
+}
+
+body{
+	font-family: 'Georgia', serif;

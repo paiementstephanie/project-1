@@ -83,3 +83,7 @@ dt{
 .per{
 	font-style: italic;
 }
+
+dd{
+	margin: 0;
+}

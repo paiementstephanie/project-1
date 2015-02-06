@@ -13,11 +13,36 @@ header {
 	background-color: #ffe524;
 }
 
+footer {
+	background-color: #ffe524;
+	padding: 0.5em;
+	text-align: center;
+}
+
 ol{
 	list-style-type:none;
 	padding:0;
 	text-align: center;
 	display: inline-block;
+}
+
+ol a {
+	background-color: #b2a215;
+	padding: 0.5rem 0.75rem;
+	color: white;
+	text-decoration: none;
+	border-radius: 10px;
+	text-align: center;
+	display: inline-block;
+}
+
+ol li{
+	display:inline-block;
+}
+
+nav a:hover {
+	background-color: #cc3865;
+
 }
 
 figure {
@@ -33,9 +58,21 @@ figcaption {
 	font-style: italic;
 }
 
+blockquote{
+	color: #b1a35e;
+}
+
 img {
 	width: 100%;
 }
 
 body{
 	font-family: 'Georgia', serif;
+}
+
+.quotation {
+	font-size: 1.5rem;
+	text-align: center;
+	color: #b1a35e;
+}
+

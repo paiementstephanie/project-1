@@ -76,6 +76,11 @@ h1 {
 	text-align:center;
 }
 
+h2 {
+	border-top: 0.2em solid #ffe524;
+	padding-top: 0.7em;
+}
+
 dt{
 	font-weight: bold;
 }

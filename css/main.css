@@ -29,6 +29,7 @@ ol a {
 	text-decoration: none;
 	border-radius: 10px;
 	text-align: center;
+	display: inline-block;
 }
 
 ol li{
